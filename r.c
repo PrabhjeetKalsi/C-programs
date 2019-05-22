@@ -41,6 +41,7 @@ int main()
       printf("%d\n",1);
       continue;
     }
+  //dhskkfkkjbskdjbfksjdfskdbfksjbsbjfksbf
     for(j=0;j<count;j++)
     {
       if((b[i]>=c[j])&&(b[i]<c[j-1]))
